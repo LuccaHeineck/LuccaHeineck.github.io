@@ -29,7 +29,7 @@ export const siteConfig = {
       name: "Game List",
       description:
         "A full-stack web application for managing a personal game collection. Built with Spring Boot and React, it allows users to browse, categorize, and organize games into custom lists. The backend provides a RESTful API with pagination and filtering, while the frontend offers an intuitive interface for interacting with the data in real-time.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://github.com/LuccaHeineck/game_list",
       skills: ["React", "Tailwind", "Java", "Spring Boot", "MySQL"],
     },
   ],
